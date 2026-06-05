@@ -1,0 +1,6 @@
+.qtcreator/
+builder/
+build-*/
+cmake-build-*/
+*.user
+*.user.*
